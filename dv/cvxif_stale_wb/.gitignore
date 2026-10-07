@@ -1,0 +1,15 @@
+simv
+simv.daidir/
+csrc/
+*.log
+*.fsdb
+prog_*.elf
+prog_*.bin
+prog_*.hex
+dump*.txt
+verdiLog/
+novas*
+ucli.key
+vc_hdrs.h
+filelist.f
+waves/
