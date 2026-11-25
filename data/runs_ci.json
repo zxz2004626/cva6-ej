@@ -1,5 +1,26 @@
 [
   {
+    "id": 45676694984,
+    "source": "github-actions",
+    "simulator": "verilator",
+    "run_number": 24,
+    "status": "completed",
+    "conclusion": "failure",
+    "html_url": "https://github.com/zxz2004626/cva6-ej/actions/runs/45676694984",
+    "head_branch": "dependabot/submodules/verif/core-v-verif-e2b55ce",
+    "head_sha": "33dbf8f5",
+    "event": "push",
+    "created_at": "2026-11-25T18:35:23Z",
+    "updated_at": "2026-11-25T18:45:29Z",
+    "run_started_at": "2026-11-25T18:35:23Z",
+    "duration_seconds": 606,
+    "total_jobs": 0,
+    "passed_jobs": 0,
+    "failed_jobs": 0,
+    "skipped_jobs": 0,
+    "jobs": []
+  },
+  {
     "id": 44371456239,
     "source": "github-actions",
     "simulator": "verilator",
